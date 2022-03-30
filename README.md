@@ -1,6 +1,4 @@
-## Bonetech Studios
-
-### Company Description
+### Team Description
 Bonetech Studios was founded by the world's greatest hacker, bonetech, who started his team on a lark after he broke into the internet. Since then, it's grown to be one of the biggest modders in the world. The studio is famous for making VR mods for video games, especially for video games in the VR space.
 
 ### The Products We Make
